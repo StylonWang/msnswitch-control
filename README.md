@@ -6,3 +6,7 @@ The analysis from wireshark capture seems to suggest that:
 2. MSNSwitch devices on the local network replies with a ethernetp packet
 
 It is not yet know how netutility find out the IP address with the source MAC address from the reply packet in #2 above.
+
+Example code to send and receive raw sockets from:
+https://gist.github.com/austinmarton/1922600
+https://gist.github.com/austinmarton/2862515
